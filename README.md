@@ -1,1 +1,1 @@
-# pyqt_project_hints
+# Шаблоны для проекта по PYQT
